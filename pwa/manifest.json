@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "魏霖 成长之路",
+  "short_name": "成长之路",
+  "description": "My life.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",

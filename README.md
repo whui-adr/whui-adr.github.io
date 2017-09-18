@@ -1,6 +1,6 @@
-# Hux Blog
+# 博客-成长之路
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [View Live Wei Lin Blog &rarr;](http://weilin666.com)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
