@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello 2017"
-subtitle:   "王者降临"
+title:      "Hello World"
+subtitle:   "宝宝出生了"
 date:       2017-09-22 16:00:00
 author:     "66Dad"
 header-img: "img/post-bg-2015.jpg"
@@ -13,8 +13,7 @@ tags:
 
 ## 诞生
 
-这是66的第一篇博客
-
+Hello World, Hello My Baby.
 
 
 ![1](http://ovh6eklj5.bkt.clouddn.com/IMG_20170722_113830.jpg)
