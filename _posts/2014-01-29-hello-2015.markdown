@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      "Hello 2017"
-subtitle:   " \"王者降临""
-date:       2015-01-29 12:00:00
-author:     "Wei Hui"
+subtitle:   "王者降临"
+date:       2017-09-22 16:00:00
+author:     "66Dad"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -11,12 +11,11 @@ tags:
 ---
 
 
-## 第一篇博客
+## 诞生
 
-魏霖 的 Blog 就这么开通了。
+这是66的第一篇博客
 
 
-跳过废话，直接上图
 
 ![1](http://ovh6eklj5.bkt.clouddn.com/IMG_20170722_113830.jpg)
 
@@ -43,5 +42,3 @@ tags:
 -----
 
 ![7](http://ovh6eklj5.bkt.clouddn.com/mmexport1503901185359.jpg)
-
-
