@@ -1,11 +1,11 @@
 # Site settings
-title: 66-成长之路
-SEOTitle: 66 Blog | 魏霖 Blog | 六六 Blog
+title: 六六-成长之路
+SEOTitle: 六六-成长之路 | 66 Blog | 魏霖 Blog | 六六 Blog
 header-img: img/home-bg.jpg
 email: whui.adr@gmail.com
 description: "千里之行，始于足下，。"
 keyword: "魏霖, 666, WeiLin666, 魏霖的博客, 博客, 个人网站, 成长之路"
-url: "http://weilin666.me"              # your host, for absolute URL
+url: "http://weilin666.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
