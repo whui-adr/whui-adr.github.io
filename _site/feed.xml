@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>66-成长之路</title>
+    <title>六六-成长之路</title>
     <description>千里之行，始于足下，。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 27 Sep 2017 09:08:00 +0800</pubDate>
-    <lastBuildDate>Wed, 27 Sep 2017 09:08:00 +0800</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2017 14:36:10 +0800</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2017 14:36:10 +0800</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
     
       <item>
@@ -28,13 +28,28 @@
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://ovh6eklj5.bkt.clouddn.com/WechatIMG4125.jpeg&quot; alt=&quot;4&quot; /&gt;&lt;/p&gt;
-
 </description>
         <pubDate>Tue, 26 Sep 2017 17:00:00 +0800</pubDate>
         <link>http://localhost:4000/2017/09/26/GoHome-2/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/09/26/GoHome-2/</guid>
         
-        <category>生活</category>
+        <category>周岁</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>一周了</title>
+        <description>&lt;video id=&quot;video&quot; width=&quot;640&quot; height=&quot;920&quot; controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://ovh6eklj5.bkt.clouddn.com/IMG_20170729_114620.jpg&quot;&gt;
+&lt;source id=&quot;mp4&quot; src=&quot;http://ovh6eklj5.bkt.clouddn.com/VID_20170729_114624.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+      &lt;p&gt;Your browser does not support the HTML5 Video element.&lt;/p&gt;
+&lt;/video&gt;
+</description>
+        <pubDate>Sat, 29 Jul 2017 22:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/07/29/WEEK/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/29/WEEK/</guid>
+        
+        <category>周岁</category>
         
         
       </item>
@@ -71,11 +86,11 @@
 
 &lt;p&gt;&lt;img src=&quot;http://ovh6eklj5.bkt.clouddn.com/mmexport1503901185359.jpg&quot; alt=&quot;7&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 23 Sep 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/09/23/Hello-My-Baby/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/23/Hello-My-Baby/</guid>
+        <pubDate>Sun, 23 Jul 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/07/23/Hello-My-Baby/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/23/Hello-My-Baby/</guid>
         
-        <category>生活</category>
+        <category>周岁</category>
         
         
       </item>

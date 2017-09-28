@@ -82,7 +82,7 @@ sidebar-avatar: /img/avatar-hux.jpg     #你的大头贴，请使用绝对地址
 侧边栏是响应式布局的，当屏幕尺寸小于992px的时候，侧边栏就会移动到底部。具体请见bootstrap栅格系统 <http://v3.bootcss.com/css/>
 
 
-#### Mini About Me
+#### Mini About Me ？？？
 
 Mini-About-Me 这个模块将在你的头像下面，展示你所有的社交账号。这个也是响应式布局，当屏幕变小时候，会将其移动到页面底部，只不过会稍微有点小变化，具体请看代码。
 
@@ -123,7 +123,7 @@ friends: [
 ```
 
 
-#### Keynote Layout
+#### Keynote Layout ???
 
 HTML5幻灯片的排版：
 
@@ -204,5 +204,5 @@ JavaScript 的压缩混淆、Less 的编译、Apache 2.0 许可通告的添加�
 
 1. 这个模板是从这里[IronSummitMedia/startbootstrap-clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll)  fork 的。 感谢这个作者
 2. 感谢[@BrucZhaoR](https://github.com/BruceZhaoR)的中文翻译
-
 3. 感谢 Jekyll、Github Pages 和 Bootstrap!
+4. 同类[brucezhaor](https://brucezhaor.github.io)

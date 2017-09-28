@@ -1,9 +1,9 @@
 # Site settings
 title: 六六-成长之路
-SEOTitle: 六六-成长之路 | 66 Blog | 魏霖 Blog | 六六 Blog
+SEOTitle: 六六-成长之路 | 魏霖 Blog | 六六 Blog
 header-img: img/home-bg.jpg
 email: whui.adr@gmail.com
-description: "千里之行，始于足下，。"
+description: "千里之行，始于足下"
 keyword: "魏霖, 666, WeiLin666, 魏霖的博客, 博客, 个人网站, 成长之路"
 url: "http://weilin666.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -72,7 +72,12 @@ sidebar-avatar: /img/avatar-66.jpeg      # use absolute URL, seeing it's used in
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
-
+# Friends
+friends: [
+    {
+        title: "技术小黑屋",
+        href: "http://droidyue.com"
+    }
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
