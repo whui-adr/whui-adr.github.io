@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "爸爸十一不能回家看你了"
+subtitle:   "想我的宝宝"
+date:       2017-09-30 14:30:00
+author:     "66Dad"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 周岁
+---
+
+![photo](http://ovh6eklj5.bkt.clouddn.com/WechatIMG4474.jpeg)
+
+-----
+
+<video id="video" width="640" height="920" controls="" preload="none">
+<source id="mp4" src="http://ovh6eklj5.bkt.clouddn.com/WeChatSight4475.mp4" type="video/mp4">
+      <p>Your browser does not support the HTML5 Video element.</p>
+</video>
+
+
+-----
+
+<video id="video" width="640" height="920" controls="" preload="none">
+<source id="mp4" src="http://ovh6eklj5.bkt.clouddn.com/WeChatSight4482.mp4" type="video/mp4">
+      <p>Your browser does not support the HTML5 Video element.</p>
+</video>
