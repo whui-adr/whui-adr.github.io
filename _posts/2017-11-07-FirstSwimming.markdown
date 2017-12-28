@@ -10,6 +10,6 @@ tags:
     - 周岁
 ---
 
-![photo](http://ovh6eklj5.bkt.clouddn.com/WechatIMG4474.jpeg)
+![photo](http://ovh6eklj5.bkt.clouddn.com/IMG_20171107_144515.jpg)
 
 -----
